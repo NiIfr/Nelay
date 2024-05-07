@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Morabba";
+    src: url("MorabbaVF.woff");
+    src: url("fMorabbaVF.woff2");
+}
+
+html, body,input {
+    font-family:"Morabba";
+}
