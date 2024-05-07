@@ -11,3 +11,15 @@ var swiper = new Swiper(".mySwiper", {
     prevEl: ".swiper-button-prev",
   },
 });
+
+
+
+var swiper = new Swiper(".product-swiper", {
+  slidesPerView: 4,
+  spaceBetween: 30,
+  freeMode: true,
+  pagination: {
+    
+    clickable: true,
+  },
+});
